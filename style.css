@@ -156,4 +156,10 @@ nav {
   .sliderItem:nth-child(5) .sliderPrice {
     color: cornsilk;
   }
+
+  .features{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
   
