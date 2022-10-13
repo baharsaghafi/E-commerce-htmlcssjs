@@ -188,3 +188,9 @@ nav {
     height: 100px;
   }
   
+
+  .product {
+    height: 100vh;
+    background-color: whitesmoke;
+    position: relative;
+  }
