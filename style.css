@@ -195,6 +195,13 @@ nav {
     position: relative;
     clip-path: polygon(0 15%, 100% 0, 100% 100%, 0% 100%);
   }
+  
+  .payment {
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    position: absolute;
+  }
 
   .productImg {
     width: 50%;  
