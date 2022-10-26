@@ -251,6 +251,21 @@ nav {
     width: 30%;
   }
 
+  .close {
+      width: 20px;
+      height: 20px;
+      position: absolute;
+      background-color: gray;
+      color: white;
+      top: 10px;
+      right: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      padding: 2px;
+  }
+
   .productImg {
     width: 50%;  
   }
