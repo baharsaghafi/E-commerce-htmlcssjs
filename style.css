@@ -218,6 +218,19 @@ nav {
     color: lightgray;
   }
 
+  label {
+    font-size: 14px;
+    font-weight: 300;
+  }
+
+  .payInput {
+    padding: 10px;
+    margin: 10px 0px;
+    border: none;
+    border-bottom: 1px solid gray;
+  }
+  
+
 
   .productImg {
     width: 50%;  
