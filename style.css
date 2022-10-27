@@ -348,5 +348,14 @@ nav {
     display: flex;
   }
 
+  .galleryItem {
+    flex: 1;
+    padding: 50px;
+  }
+  
+  .galleryImg {
+    width: 100%;
+  }
+
  
   
