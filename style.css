@@ -441,4 +441,7 @@ nav {
     margin-right: 10px;
   }
 
-  
+  .copyright{
+    font-weight: 300;
+    font-size: 14px;
+  }
