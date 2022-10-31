@@ -445,3 +445,16 @@ nav {
     font-weight: 300;
     font-size: 14px;
   }
+
+  @media screen and (max-width:480px) {
+    nav{
+      padding: 20px;
+    }
+
+    .search{
+      display: none;
+    }
+  
+    .navBottom{
+      flex-wrap: wrap;
+    }
